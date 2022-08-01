@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img width="460" height="300" src="./images/grapelon.jpg">
+  <img width="520" height="550" src="./images/grapelon.jpg">
 </p>
 
 
