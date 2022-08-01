@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Some of my projects.
+<p align="center">
+  <img width="460" height="300" src="./images/grapelon.jpg">
+</p>
+
 
 # Research projects
 
