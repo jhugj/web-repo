@@ -1,4 +1,5 @@
 title: Welcome to the jungle
 description: August 2022
+show_downloads: false
 baseurl: /web-repo
 theme: jekyll-theme-cayman
