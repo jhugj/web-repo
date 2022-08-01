@@ -11,4 +11,4 @@ description: Automate gear chamfering using a robot arm.
 ## Hybrid motion-force control
 
 
-[Back](./)
+[Back](https://jhugj.github.io/web-repo/)
