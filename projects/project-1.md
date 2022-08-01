@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Project 1
-description: Project page
+title: Robotic chamfering
+description: Automate gear chamfering using a robot arm.
 ---
 
-## Project 1
+## Gear chamfering
 
-Content
+## Challenges
 
-[back](./)
+## Hybrid motion-force control
+
+
+[Back](./)
