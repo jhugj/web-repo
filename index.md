@@ -13,7 +13,10 @@ Research projects during Ph.D.
 
 ## Control
 
-[Project 1](./projects/project-1.html).
+[Robotic chamfering and deburring of gears](./projects/project-1.html).
+
+[Robotic grinding of tubes](./projects/project-2.html).
+
 
 ## Perception
 
