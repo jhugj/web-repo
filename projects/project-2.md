@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Robotic chamfering
-description: Automate gear chamfering using a robot arm.
+title: Robotic grinding
+description: Automate gear grinding using a robot arm.
 ---
 
 Keywords: robotic grinding; Iterative learning control (ILC); ROS
