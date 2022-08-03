@@ -15,7 +15,7 @@ Keywords: robotic chamfering; robotic deburring; force/motion control; ROS
 To control the amount of material being removed, hybrid force/motion control is used to obtain the exact locations of the gear teeth. Force/torque sensor from [ATI](https://www.ati-ia.com/) is used.
 <br/>
 <center>
-<img src="https://github.com/jhugj/web-repo/blob/main/images/rootID.gif" width="480" height="270"/>
+<img src="../images/rootID.gif" width="480" height="270"/>
 </center>
 <br/>
 Dual-edge chamfering: using abrasives to chamfer two edges simultaneously. The following is an external gear from ITAMCO. The robot end-effector is a pneumatic tool from ATI that has axial compliance.
