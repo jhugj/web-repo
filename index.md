@@ -14,19 +14,19 @@ Research projects during Ph.D.
 [Robotic chamfering and deburring of gears](./projects/project-1.html).
 
 <p align="center">
-  <img width="300" src="./images/p1-1.jpg">
+  <img width="300" src="./images/p1-1.png">
 </p>
 
 [Robotic grinding of tubes](./projects/project-2.html).
 
 <p align="center">
-  <img width="300" src="./images/p1-2.jpg">
+  <img width="300" src="./images/p1-2.png">
 </p>
 
 [Robotic sanding](./projects/project-3.html).
 
 <p align="center">
-  <img width="300" src="./images/p1-3.jpg">
+  <img width="300" src="./images/p1-3.png">
 </p>
 
 ## Robot perception
