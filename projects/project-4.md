@@ -18,3 +18,5 @@ The following is an examples of the NBV process.
 </center>
 <br/>
 The point cloud processing here uses a combination of the Point Cloud Library ([PCL](https://pointclouds.org/)) and [Open3D](http://www.open3d.org/). Simulation and visualization are done in ROS, implemented on a UR5 with a Ensenso camera [N35](https://www.optonic.com/en/products/ensenso/n30-n35/).
+
+[Back to main](https://jhugj.github.io/web-repo/)

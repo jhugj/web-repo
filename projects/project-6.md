@@ -13,3 +13,5 @@ A simplified traffic system with three horizontal roads and three vertical roads
 </center>
 <br/>
 The key evaluation metric is the number of vehicles that have reached their destination within a predefined time (throughput). I set up the infrastructure using [pyglet](http://pyglet.org) and integrated the infrastructure with the vehicles from other teams. 
+
+[Back to main](https://jhugj.github.io/web-repo/)

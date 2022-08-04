@@ -48,3 +48,5 @@ Sometimes we need to determine how many sensor views are enough to collect point
 Keywords: nonlinear programming; inverse kinematics
 
 A common, fundamental problem in almost all my previous projects is to solve the robot [inverse kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics) given the target robot end-effector pose. For the robot perception problem that I'm studying, there are many constraints that a certain robot pose has to satisfy, such as the field-of-view, field-of-distance constraints of the vision sensor. Thus formulating a constrained [nonlinear optimization](https://en.wikipedia.org/wiki/Nonlinear_programming) problem and solve it for the robot joint angles fits the purpose very well. Even though the local minimum could potentially be an issue.
+
+[Back to main](https://jhugj.github.io/web-repo/)

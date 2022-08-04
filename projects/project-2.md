@@ -27,4 +27,4 @@ During grinding, the normal force $\small F_n$ should be regulated for both the 
 
 
 
-[Back](https://jhugj.github.io/web-repo/)
+[Back to main](https://jhugj.github.io/web-repo/)

@@ -28,3 +28,5 @@ The generated robot pose (a) to collect point clouds based on the active robot p
 </center>
 <br/>
 The details of the methods are included in a paper, which is currently under review. 
+
+[Back to main](https://jhugj.github.io/web-repo/)

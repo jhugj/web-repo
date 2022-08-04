@@ -17,3 +17,5 @@ The workshop went virtual due to the pandemic. We managed to stream the hands-on
 <img src="../images/robotics-training.png" width="480" height="270"/>
 </center>
 <br/>
+
+[Back to main](https://jhugj.github.io/web-repo/)

@@ -20,3 +20,5 @@ Applying force/motion control after the curvature identification.
 <img src="../images/freeform-wood.gif"/>
 </center>
 <br/>
+
+[Back to main](https://jhugj.github.io/web-repo/)
