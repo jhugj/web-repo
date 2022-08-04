@@ -4,10 +4,6 @@ layout: default
 
 > "Rolling in the muck is not the best way of getting clean."
 > --- Aldous Huxley
-<!-- <p align="center">
-  <img width="300" src="./images/grapelon.jpg">
-</p> -->
-
 
 # Research projects
 
